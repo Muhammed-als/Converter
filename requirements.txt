@@ -1,0 +1,7 @@
+tk
+moviepy
+pydub
+Pillow
+pdf2docx
+yt-dlp
+openai-whisper
